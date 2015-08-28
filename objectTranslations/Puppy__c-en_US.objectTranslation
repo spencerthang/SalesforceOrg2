@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Puppy ID --></label>
+        <name>Puppy_ID__c</name>
+    </fields><fields xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Name of puppy. --></help>
+        <label><!-- Puppy Name --></label>
+        <name>Puppy_Name__c</name>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Puppy</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Puppies</value>
+    </caseValues><startsWith>Consonant</startsWith></CustomObjectTranslation>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Number of attempts made at processing this webhook --></help>
+        <label><!-- Attempts --></label>
+        <name>Attempts__c</name>
+    </fields><fields xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Failed</masterLabel>
+            <translation><!-- Failed --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pending</masterLabel>
+            <translation><!-- Pending --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Succeeded</masterLabel>
+            <translation><!-- Succeeded --></translation>
+        </picklistValues>
+    </fields><fields xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Webhook Data --></label>
+        <name>Webhook_Data__c</name>
+    </fields><fields xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Webhook Type --></label>
+        <name>Webhook_Type__c</name>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Stripe Webhook</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Stripe Webhooks</value>
+    </caseValues><startsWith>Consonant</startsWith></CustomObjectTranslation>
